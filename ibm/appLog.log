@@ -1,0 +1,151 @@
+Project created on Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createReactNativeProject | Fri May 29 2020, 12:51:06 GMT+0530 (India Standard Time) | Initialized all the DB's
+ Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:07 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:07 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:10 GMT+0530 (India Standard Time) | ✔ Downloading template
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:10 GMT+0530 (India Standard Time) | - Copying template
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:10 GMT+0530 (India Standard Time) | ✔ Copying template
+- Processing template
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:53:10 GMT+0530 (India Standard Time) | ✔ Processing template
+- Installing dependencies
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:54:42 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:14 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:4343/dist/renderer.dev.js:158137:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:158094:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:158134:5)
+    at Socket.<anonymous> (http://localhost:4343/dist/renderer.dev.js:19106:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:14 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/gitCloneDemo/reactnative/gitCloneDemo" && npx react-native run-ios
+    - or -
+    • Open gitCloneDemo/ios/gitCloneDemo.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/gitCloneDemo/reactnative/gitCloneDemo" && npx react-native run-android
+
+  Run instructions for Windows and macOS:
+    • See https://aka.ms/ReactNative for the latest up-to-date instructions.
+
+
+Success | projectHandler | copyMfpArtifacts | Fri May 29 2020, 12:55:17 GMT+0530 (India Standard Time) | Copied over required app-build.json file
+ Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:22 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:22 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+Success | CreatingAppActions | createNewAppOnServer | Fri May 29 2020, 12:55:24 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Fri May 29 2020, 12:55:24 GMT+0530 (India Standard Time) | Exported project configuration successfully
+Success | CreatingAppActions | createNewAppOnServer | Fri May 29 2020, 12:55:24 GMT+0530 (India Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Fri May 29 2020, 12:55:24 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:25 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:30 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Fri May 29 2020, 12:55:30 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
